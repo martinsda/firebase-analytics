@@ -1,0 +1,4 @@
+<plugin name="cordova-plugin-firebase-analytics" spec="https://github.com/martinsda/firebase-analytics.git">
+<variable name="APP_GOOGLE_API_ID" value="analyticsdemo-b9d04" />
+<variable name="APP_GOOGLE_API_KEY" value="AIzaSyC_5W4Y0GwYEaE1ZamPyZEMi9a1KIlfZn4" />
+</plugin>
